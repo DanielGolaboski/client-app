@@ -1,0 +1,123 @@
+[
+    {
+        "name" : "John Doe",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "20",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person1.png"
+    },
+    {
+        "name" : "Brian Stevensen",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "22",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person2.png"
+    },
+    {
+        "name" : "Steve Carell",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "24",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person3.png"
+    },
+    {
+        "name" : "Lizzie Armanto",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "23",
+        "sex" : "Female",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person4.png"
+    },
+    {
+        "name" : "Steve Something",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "25",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person5.png"
+    },
+    {
+        "name" : "John Cena",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "30",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person6.png"
+    },
+    {
+        "name" : "Amelia Brodka",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "40",
+        "sex" : "Female",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person4.png"
+    },
+    {
+        "name" : "Gabe Newell",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "22",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person8.png"
+    },
+    {
+        "name" : "Steve Jobs",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "20",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person7.png"
+    },
+    {
+        "name" : "Nicola Tesla",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "21",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person6.png"
+    },
+    {
+        "name" : "Heido Kojima",
+        "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
+        "age" : "30",
+        "sex" : "Male",
+        "birthday" : "November 11, 1982",
+        "adress" : "123 Fake St, Hungtington Beach, CA",
+        "cell" : "123-456-7890",
+        "email" : "fakemail@gmail.com",
+        "image" : "person5.png"
+    }
+]
