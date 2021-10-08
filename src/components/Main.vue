@@ -67,7 +67,7 @@
                     <div class="client_notes" style="width: 30%;">
                         <p>{{selectedClient.name}}</p>
                         <img :src="require(`../assets/${selectedClient.image}`)"  alt class="icon" />
-                        <p>Notes</p>
+                        <p>NotesS</p>
                         <p>{{ selectedClient.note}}</p>
                     </div>
                     <div class="client_info">
