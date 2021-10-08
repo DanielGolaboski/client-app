@@ -61,7 +61,7 @@
             </div>
             <div class="client_info">
                 <div class="client_name">
-                    <p></p>
+                    <p>{{selectedClient.name}}</p>
                 </div>
                 <div class="flex">
                     <div class="client_notes" style="width: 30%;">
