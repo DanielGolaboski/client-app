@@ -69,7 +69,6 @@
                         <img :src="require(`../assets/${selectedClient.image}`)"  alt class="icon" />
                         <p>Notes</p>
                         <p>{{ selectedClient.note}}</p>
-                        <p>{{ selectedClient.note}}</p>
                     </div>
                     <div class="client_info">
                         <div class="flex">
