@@ -26,7 +26,9 @@
           <div>
             <ul class="list">
               <li
-                v-for="(client, clientObject) in searchClients" :key="clientObject" @click="showClient(client)"
+                v-for="(client, clientObject) in searchClients"
+                :key="clientObject"
+                @click="showClient(client)"
               >
                 <img
                   :src="require(`../assets/${client.image}`)"
@@ -479,12 +481,10 @@ export default {
   padding: 10px;
 }
 .contacts_container {
-  /* background-color: red; */
   width: 100%;
 }
 
 .sort_dropdown {
-  /* margin: 0 10px; */
   border-top: 1px solid #d8d8d8;
   border-bottom: 1px solid #d8d8d8;
   padding: 20px 10px;
