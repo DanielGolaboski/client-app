@@ -5,9 +5,8 @@
                 <h3>TakeLessons</h3>
             </div>
             
-            
-            <div>
-                <select name="" id="navDropdown"> 
+            <div >
+                <select name="" id="navDropdown">
                     <option value=""> Jason.H</option>
                     <option value="">Jason.S</option>
                 </select> 
@@ -73,23 +72,17 @@ export default {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* width */
+/* custom scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
-  height: 10px;
+  height: 2vh;
 }
-
-/* Track */
 ::-webkit-scrollbar-track {
   background: #f1f1f1;
 }
-
-/* Handle */
 ::-webkit-scrollbar-thumb {
   background: #888;
 }
-
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
@@ -122,10 +115,10 @@ export default {
 
 #navDropdown {
     width: 250px;
-    height: 60px;
+    height: 50px;
     margin-right: 50px;
     padding: 10px;
-    border: 2px solid black;
+    border: 2px solid #27303f;
     border-radius: 5px;
     outline: none;
     background-color: #2e394b;
@@ -144,7 +137,7 @@ export default {
 
 .tab ul li button {
   background-color: inherit;
-  color: #a1a1a1;
+  color: #d1d1d1;
   float: left;
   border: none;
   outline: none;
@@ -155,11 +148,11 @@ export default {
 }
 
 .tab ul li button:hover {
-  background-color: #ddd;
+  background-color: #2e394b;
 }
 
 .tab button.active {
-  color: #e7e7e7;
+  color: #ffffff;
 }
 
 .tabcontent {

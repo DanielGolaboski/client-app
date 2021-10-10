@@ -55,9 +55,9 @@
         "image" : "person5.jpg"
     },
     {
-        "name" : "John Cena",
+        "name" : "John Johnson",
         "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
-        "age" : "30",
+        "age" : "33",
         "sex" : "Male",
         "birthday" : "November 11, 1982",
         "adress" : "123 Fake St, Hungtington Beach, CA",
@@ -66,11 +66,11 @@
         "image" : "person6.jpg"
     },
     {
-        "name" : "Amelia Brodka",
+        "name" : "Victoria Banks",
         "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
-        "age" : "40",
+        "age" : "33",
         "sex" : "Female",
-        "birthday" : "December 11, 1972",
+        "birthday" : "December 11, 1980",
         "adress" : "123 Fake St, Hungtington Beach, CA",
         "cell" : "123-456-7890",
         "email" : "fakemail@gmail.com",
@@ -112,7 +112,7 @@
     {
         "name" : "Heido Kojima",
         "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
-        "age" : "30",
+        "age" : "45",
         "sex" : "Male",
         "birthday" : "November 11, 1982",
         "adress" : "123 Fake St, Hungtington Beach, CA",
@@ -121,9 +121,9 @@
         "image" : "person5.jpg"
     },
     {
-        "name" : "Amelia Earhart",
+        "name" : "Sandra Geller",
         "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
-        "age" : "22",
+        "age" : "24",
         "sex" : "Female",
         "birthday" : "December 3, 1983",
         "adress" : "123 Fake St, Hungtington Beach, CA",
@@ -154,9 +154,9 @@
         "image" : "person4.jpg"
     },
     {
-        "name" : "Steve Something",
+        "name" : "Steve Some",
         "note" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum atque fuga quis hic eveniet qui? Cumque reiciendis, totam similique perferendis dignissimos odit omnis, quibusdam atque cupiditate officiis culpa ducimus sequi.",
-        "age" : "25",
+        "age" : "27",
         "sex" : "Male",
         "birthday" : "February 1, 1992",
         "adress" : "3333 Fake St, Hungtington Beach, CA",
